@@ -1,8 +1,6 @@
 +++
 
-
 title = "Motion Planning"
-
 
 
 summary = "Applying motion planning to a drone."
