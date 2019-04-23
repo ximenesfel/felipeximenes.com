@@ -3,7 +3,7 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Projects"
+title = "Portifolio"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,7 +18,7 @@ folder = "project"
 #   1 = List
 #   3 = Card
 #   5 = Showcase
-view = 3
+view = 5
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -36,17 +36,22 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+
+[[filter]]
+name = "All"
+tag = "*"
+
+[[filter]]
+name = "Computer Vision"
+tag = "computer_vsion"
+
+[[filter]]
+name = "Robotic"
+tag = "robotic"
+
+[[filter]]
+name = "Embedded Linux"
+tag = "embedded_linux"
 
 +++
 
