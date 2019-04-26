@@ -3,9 +3,9 @@
 title = "Motion Planning"
 
 
-summary = "Applying motion planning to a drone."
+summary = ""
 
-tags = ["robotic"]
+tags = ["ai"]
 
 
 external_link = "https://github.com/ximenesfel/FCND_MotionPlanning_Project"

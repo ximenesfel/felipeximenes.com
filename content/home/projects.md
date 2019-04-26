@@ -46,11 +46,12 @@ name = "Computer Vision"
 tag = "computer_vsion"
 
 [[filter]]
-name = "Robotic"
-tag = "robotic"
+name = "Artificial Inteligence"
+tag = "ai"
 
 [[filter]]
-name = "Embedded Linux"
-tag = "embedded_linux"
+name = "Embedded system"
+tag = "embedded_system"
+
 
 +++
