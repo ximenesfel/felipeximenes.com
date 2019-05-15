@@ -43,7 +43,7 @@ tag = "*"
 
 [[filter]]
 name = "Computer Vision"
-tag = "computer_vsion"
+tag = "computer_vision"
 
 [[filter]]
 name = "Artificial Inteligence"
