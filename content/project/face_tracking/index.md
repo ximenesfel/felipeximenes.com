@@ -1,6 +1,6 @@
 +++
 
-title = "Face Traking"
+title = "Face Tracking"
 
 
 summary = ""

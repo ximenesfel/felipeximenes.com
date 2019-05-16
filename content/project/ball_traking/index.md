@@ -1,6 +1,6 @@
 +++
 
-title = "Ball Traking"
+title = "Ball Tracking"
 
 
 summary = ""
